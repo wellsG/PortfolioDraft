@@ -31,7 +31,7 @@ comments.head()
 # In[4]:
 
 
-get_ipython().system('pip install textblob')
+#get_ipython().system('pip install textblob')
 
 
 # In[5]:
@@ -102,7 +102,7 @@ comments_positive.head()
 # In[15]:
 
 
-get_ipython().system('pip install wordcloud')
+#get_ipython().system('pip install wordcloud')
 
 
 # In[16]:
